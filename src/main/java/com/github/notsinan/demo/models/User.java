@@ -1,7 +1,6 @@
 package com.github.notsinan.demo.models;
 
 public class User {
-
     private long id;
     private String firstName;
     private String lastName;
